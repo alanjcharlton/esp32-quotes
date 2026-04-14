@@ -1,4 +1,5 @@
 # quotes_list.txt (raw)
 https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/refs/heads/main/Markism.enc
 https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/refs/heads/main/Inspirational.enc
+https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/refs/heads/main/Bible.enc
 # end
