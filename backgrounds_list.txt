@@ -1,0 +1,11 @@
+# Category|URL
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg001.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg002.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg003.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg004.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg005.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg006.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg007.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg008.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg009.rgb565
+Nature|raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/bg010.rgb565
