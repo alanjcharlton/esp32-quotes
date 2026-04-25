@@ -2,4 +2,5 @@
 https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/refs/heads/main/Markism.enc
 https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/refs/heads/main/Bible.enc
 https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/refs/heads/main/Inspirational.enc
+https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/refs/heads/main/Dad_Jokes.txt.enc
 # end
