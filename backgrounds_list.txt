@@ -1,5 +1,5 @@
 # Category|URL
-Cats|https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/Cats_bg001.rgb565
+Cats|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Cats_bg001.rgb565
 Cats|https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/Cats_bg002.rgb565
 Cats|https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/Cats_bg003.rgb565
 Cats|https://raw.githubusercontent.com/alanjcharlton/esp32-quotes/main/backgrounds/Cats_bg004.rgb565
