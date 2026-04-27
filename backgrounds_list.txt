@@ -31,3 +31,16 @@ Dogs|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgroun
 Dogs|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/dogs_bg010.rgb565
 Dogs|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/dogs_bg011.rgb565
 Dogs|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/dogs_bg012.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg001.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg002.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg003.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg004.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg005.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg006.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg007.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg008.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg009.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg010.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg011.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg012.rgb565
+Penguins|https://github.com/alanjcharlton/esp32-quotes/raw/refs/heads/main/Backgrounds/Penguins_bg013.rgb565
